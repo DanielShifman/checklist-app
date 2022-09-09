@@ -123,6 +123,8 @@
 						["If any are present, verify that the meaning conveyed is explained to the user"]],
 					["This is an embedded image test",
 						["|IMG-0| Heading: Web Accessibility Guidelines. List: WCAG 2.0 (New) in bold, WCAG 1.0, Section 508, JIS X 8341-3."]],
+					["This is a code block test",
+						["|CODEBOCK-BEGIN| <h2>Web Accessibility Guidelines</h2>\n<ul>\n<li><strong>WCAG 2.0 (New)</strong></li>\n<li>WCAG 1.0</li>\n<li>Section 508</li>\n<li>JIS X 8341-3</li>\n...\n</ul>\n |CODEBLOCK-END|"]],
 					"Images of Text",
 					["Check if any images of text are used to convey structural information of the document",
 						["If so, verify that the proper sematic structure is used to convey the information"]],
